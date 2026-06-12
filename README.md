@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Raza</h1>
 
-<h3 align="center">Frontend Developer | React.js · Next.js · TypeScript · Tailwind CSS</h3>
+<h3 align="center">MERN Stack Developer | MongoDB · Express · React · Node.js</h3>
 
 <p align="center">Building fast, responsive, real-world web applications. Always learning, always shipping.</p>
 
@@ -8,6 +8,24 @@
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=ahmadraza382&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadraza382" />
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
