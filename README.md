@@ -4,9 +4,13 @@
 
 <p align="center">Building fast, responsive, real-world web applications. Always learning, always shipping.</p>
 
-<img align="center" alt="coding" width="1000" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<p align="center">
+<a href="https://github.com/ahmadraza382">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Building+real-world+web+applications" alt="Typing SVG" />
+</a>
+</p>
 
-<p align="left">
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=ahmadraza382&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadraza382" />
 </p>
 
@@ -14,18 +18,30 @@
 
 ## 🛠 Tech Stack
 
+> Technologies I actively use across my projects and repositories.
+
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
+
 <p align="center">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
@@ -58,6 +74,7 @@
 |------------|-------------|--------------------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30"/> Node.js | Intermediate | Express, Fastify |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30"/> MongoDB | Intermediate | Mongoose, Aggregation |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30"/> PostgreSQL | Intermediate | Queries, Schema Design |
 | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30"/> Firebase | Advanced | Auth, Firestore |
 
 </div>
@@ -68,8 +85,8 @@
 
 - 🔥 **[Luxeurs](https://github.com/ahmadraza382/Luxeurs-Shopping-Store)** – Fashion E-Commerce Platform (Next.js, Tailwind, Local Data, Dynamic Routing)
 - 🏥 **[Hospital Website](https://github.com/ahmadraza382/Hospital-management-system)** – Hospital services, doctors, departments
-- 💰 **[FinanceAI](https://github.com/ahmadraza382/FinanceAi)** – AI-powered finance coach
-- 🏡 **Real Estate Project** – Property listings, details pages, dynamic components
+- 💰 **[FinanceAI](https://github.com/ahmadraza382/FinanceAi)** – AI-powered finance coach (PostgreSQL, TypeScript)
+- 🤖 **[Alzheimer's AI Companion](https://github.com/ahmadraza382/Alzheimers_ai_companion)** – TypeScript-based AI assistant
 
 ---
 
