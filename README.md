@@ -5,9 +5,7 @@
 <p align="center">Building fast, responsive, real-world web applications. Always learning, always shipping.</p>
 
 <p align="center">
-<a href="https://github.com/ahmadraza382">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Building+real-world+web+applications" alt="Typing SVG" />
-</a>
+<img alt="coding" width="600" src="https://raw.githubusercontent.com/ahmadraza382/ahmadraza382/main/git.gif">
 </p>
 
 <p align="center">
